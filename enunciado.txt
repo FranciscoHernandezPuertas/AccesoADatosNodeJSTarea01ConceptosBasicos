@@ -1,0 +1,26 @@
+1. Explica o muestra el proceso de instalación de node, teniendo en cuenta los errores comunes con el path.
+
+2. Crea una función sencilla que imprima '¡Hola, Mundo!' en la terminal.
+
+3. Crea una función que tome dos números como argumentos e imprima su suma.
+
+4. Crea una función que lea un archivo de texto llamado 'data.txt' y muestre su contenido en la consola.
+
+5. Crea una función que escriba el texto "Hola, mundo" en un archivo llamado output.txt. 
+
+6. Crea una función que sobrescriba el archivo log.txt con el texto "Actualización completada".  
+
+7. Crea una función que verifique si existe un archivo llamado temp.txt y, si existe, lo elimine. 
+
+8. Crea una función que cree un directorio llamado nuevaCarpeta si este no existe. 
+
+9. Crea una función que elimine un directorio llamado carpetaAntigua si este existe. 
+
+10. Crea una función que lea el archivo largeData.txt en bloques y muestre cada bloque en la consola.
+
+11. Crea una función que copie el contenido del archivo source.txt al archivo destination.txt. 
+
+12. Crea una función que utilice pipe para leer el contenido de entrada.txt y escribirlo en salida.txt. 
+
+13. Crea una función que verifique si existe un directorio llamado backup y lo cree si no existe.
+

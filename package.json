@@ -1,0 +1,12 @@
+{
+  "name": "tarea01conceptosbasicos",
+  "version": "1.0.0",
+  "description": "Acceso a Datos NodeJS Tarea 01 Conceptos Basicos",
+  "license": "ISC",
+  "author": "Francisco Hernández Puertas",
+  "type": "commonjs",
+  "main": "2.HolaMundo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
